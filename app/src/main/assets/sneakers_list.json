@@ -1,0 +1,216 @@
+[
+  {
+    "id": "1",
+    "brand": "Nike",
+    "colorway": "string",
+    "gender": "string",
+    "media": {
+      "imageUrl": "string",
+      "smallImageUrl": "string",
+      "thumbUrl": "string"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 100,
+    "styleId": "string",
+    "shoe": "Nike Air",
+    "name": "Nike Air",
+    "title": "string",
+    "year": 0,
+    "imageUrl" : "https://m.media-amazon.com/images/I/41yCoOJknmL._UL1000_.jpg"
+  },
+  {
+    "id": "2",
+    "brand": "string",
+    "colorway": "string",
+    "gender": "string",
+    "media": {
+      "imageUrl": "string",
+      "smallImageUrl": "string",
+      "thumbUrl": "string"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "string",
+    "shoe": "Nike Air",
+    "name": "Nike Air",
+    "title": "string",
+    "year": 0,
+    "imageUrl" : "https://m.media-amazon.com/images/I/41yCoOJknmL._UL1000_.jpg"
+  },
+  {
+    "id": "3",
+    "brand": "string",
+    "colorway": "string",
+    "gender": "string",
+    "media": {
+      "imageUrl": "string",
+      "smallImageUrl": "string",
+      "thumbUrl": "string"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 300,
+    "styleId": "string",
+    "shoe": "Nike Air",
+    "name": "Nike Air",
+    "title": "string",
+    "year": 0,
+    "imageUrl" : "https://m.media-amazon.com/images/I/41yCoOJknmL._UL1000_.jpg"
+  },
+  {
+    "id": "4",
+    "brand": "string",
+    "colorway": "string",
+    "gender": "string",
+    "media": {
+      "imageUrl": "string",
+      "smallImageUrl": "string",
+      "thumbUrl": "string"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 400,
+    "styleId": "string",
+    "shoe": "Nike",
+    "name": "Nike Air",
+    "title": "string",
+    "year": 0,
+    "imageUrl" : "https://m.media-amazon.com/images/I/41yCoOJknmL._UL1000_.jpg"
+  },
+  {
+    "id": "5",
+    "brand": "string",
+    "colorway": "string",
+    "gender": "string",
+    "media": {
+      "imageUrl": "string",
+      "smallImageUrl": "string",
+      "thumbUrl": "string"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 500,
+    "styleId": "string",
+    "shoe": "Nike",
+    "name": "Nike Air",
+    "title": "string",
+    "year": 0,
+    "imageUrl" : "https://m.media-amazon.com/images/I/41yCoOJknmL._UL1000_.jpg"
+  },
+  {
+    "id": "6",
+    "brand": "string",
+    "colorway": "string",
+    "gender": "string",
+    "media": {
+      "imageUrl": "string",
+      "smallImageUrl": "string",
+      "thumbUrl": "string"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 600,
+    "styleId": "string",
+    "shoe": "Nike",
+    "name": "Nike Air",
+    "title": "string",
+    "year": 0,
+    "imageUrl" : "https://m.media-amazon.com/images/I/41yCoOJknmL._UL1000_.jpg"
+
+  },
+  {
+    "id": "7",
+    "brand": "string",
+    "colorway": "string",
+    "gender": "string",
+    "media": {
+      "imageUrl": "string",
+      "smallImageUrl": "string",
+      "thumbUrl": "string"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 700,
+    "styleId": "string",
+    "shoe": "Nike",
+    "name": "Nike Air",
+    "title": "string",
+    "year": 0,
+    "imageUrl" : "https://m.media-amazon.com/images/I/41yCoOJknmL._UL1000_.jpg"
+
+  },
+  {
+    "id": "8",
+    "brand": "string",
+    "colorway": "string",
+    "gender": "string",
+    "media": {
+      "imageUrl": "string",
+      "smallImageUrl": "string",
+      "thumbUrl": "string"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 800,
+    "styleId": "string",
+    "shoe": "Nike",
+    "name": "Nike Air",
+    "title": "string",
+    "year": 0,
+    "imageUrl" : "https://m.media-amazon.com/images/I/41yCoOJknmL._UL1000_.jpg"
+
+  },
+  {
+    "id": "9",
+    "brand": "string",
+    "colorway": "string",
+    "gender": "string",
+    "media": {
+      "imageUrl": "string",
+      "smallImageUrl": "string",
+      "thumbUrl": "string"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 900,
+    "styleId": "string",
+    "shoe": "Nike",
+    "name": "Nike Air",
+    "title": "string",
+    "year": 0,
+    "imageUrl" : "https://m.media-amazon.com/images/I/41yCoOJknmL._UL1000_.jpg"
+
+  },
+  {
+    "id": "10",
+    "brand": "string",
+    "colorway": "string",
+    "gender": "string",
+    "media": {
+      "imageUrl": "string",
+      "smallImageUrl": "string",
+      "thumbUrl": "string"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 1000,
+    "styleId": "string",
+    "shoe": "Nike",
+    "name": "Nike Air",
+    "title": "string",
+    "year": 0,
+    "imageUrl" : "https://m.media-amazon.com/images/I/41yCoOJknmL._UL1000_.jpg"
+
+  },
+  {
+    "id": "11",
+    "brand": "string",
+    "colorway": "string",
+    "gender": "string",
+    "media": {
+      "imageUrl": "string",
+      "smallImageUrl": "string",
+      "thumbUrl": "string"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 1100,
+    "styleId": "string",
+    "shoe": "Nike",
+    "name": "Nike Air",
+    "title": "string",
+    "year": 0,
+    "imageUrl" : "https://m.media-amazon.com/images/I/41yCoOJknmL._UL1000_.jpg"
+  }
+]

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CrickBuzzTest</string>
+    <string name="sneakership">Sneakership</string>
+    <string name="popular">Popular</string>
+    <string name="sort_by">Sort by</string>
+    <string name="something_went_wrong">Something went wrong, please try again later..</string>
+    <string name="cart">Cart</string>
+    <string name="order_details">Order Details</string>
+    <string name="total">Total : </string>
+    <string name="check_out">$ Check Out</string>
+    <string name="size_uk">Size (UK) :</string>
+    <string name="colour">Colour :</string>
+    <string name="add_to_cart">Add to Cart</string>
+</resources>
